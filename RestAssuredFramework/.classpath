@@ -164,5 +164,23 @@
 	<classpathentry kind="lib" path="G:/Selenium/All/Work/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="G:/Selenium/All/Work/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="G:/Selenium/All/Work/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium/Restassured jar/xml-path-4.3.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
